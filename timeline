@@ -1,0 +1,13 @@
+timeline // diary 
+
+This is where I will document everything I work on in my homelab! Projects, failures, things that work somehow, all here!
+
+20210326 (March 26, 2021)
+
+Installed VirtualBox and Ubuntu (linux distribution system)
+Enabled Hardware Virutalization on BIOS settings
+
+things I learned today:
+Installing a virtual machine is not as complicated as I thought it would be. 
+BIOS settings actually matter
+What distribution systems are
